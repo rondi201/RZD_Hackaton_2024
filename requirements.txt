@@ -1,0 +1,9 @@
+pandas==2.2.2
+geopandas==1.0.1
+shapely==2.0.4
+scikit-learn==1.5.0
+numpy==1.26.4
+tqdm==4.66.4
+matplotlib==3.9.0
+networkx==3.3
+osmnx==1.9.3
