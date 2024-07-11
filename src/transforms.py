@@ -5,7 +5,7 @@ import sklearn
 from tqdm.auto import tqdm
 from typing import Literal
 
-from src.railway_graph import RailwayGraph
+from railway_graph import RailwayGraph
 
 
 class RailwayGraphOneHotWithLength(sklearn.base.TransformerMixin):
